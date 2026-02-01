@@ -1,0 +1,14 @@
+<dependencies>
+    <!-- مكتبة ديسكورد الأساسية -->
+    <dependency>
+        <groupId>net.dv8tion</groupId>
+        <artifactId>JDA</artifactId>
+        <version>5.0.0-beta.20</version>
+    </dependency>
+    <!-- مكتبة لإدارة التوكن من ملف خارجي -->
+    <dependency>
+        <groupId>io.github.cdimascio</groupId>
+        <artifactId>java-dotenv</artifactId>
+        <version>5.2.2</version>
+    </dependency>
+</dependencies>
